@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=67f391e5_002Ddc77_002D407f_002Da04f_002D91fdadc88def/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::5310501C-EC77-4DD3-BA87-B75CC52AFBA5::net5.0::TestApi.FunctionalTests.UnitTest1.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5310501C-EC77-4DD3-BA87-B75CC52AFBA5::net5.0::TestApi.FunctionalTests.ApiEndpoints.RegistrationCreate.ReturnsSeedProjectGivenId1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5310501C-EC77-4DD3-BA87-B75CC52AFBA5::net5.0::TestApi.FunctionalTests.ApiEndpoints.RegistrationCreate&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5310501C-EC77-4DD3-BA87-B75CC52AFBA5::net5.0::TestApi.FunctionalTests.ApiEndpoints.RegistrationGetById.ReturnsNotFound&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5310501C-EC77-4DD3-BA87-B75CC52AFBA5::net5.0::TestApi.FunctionalTests.ApiEndpoints.RegistrationGetById.ReturnsRegistrationById&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
